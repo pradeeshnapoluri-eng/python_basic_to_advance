@@ -1,0 +1,23 @@
+from own_abstraction import *
+# line=Teacher()
+# line.room()
+# line.chairs()
+# kid=Students()
+# kid.room()
+################
+f1=Father()
+f1.daddy()
+f1.display()
+f2=Mother()
+f2.mommy()
+f2.display()
+f3=Child1()
+f3.john()
+f3.display()
+f4=Child2()
+f4.riya()
+f4.display()
+f0=Family()
+f0.members()
+f0.no_of_persons
+f0.display()
