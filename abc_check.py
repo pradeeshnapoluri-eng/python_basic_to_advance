@@ -1,0 +1,11 @@
+from another_abstraction import *
+# p1=Cash()
+# p1.pay(100)
+# d1=Teacher()
+# d1.display()
+d2=Aunty()
+d2.display()
+d3=Uncles()
+d3.display()
+d4=Kids()
+d4.display()
